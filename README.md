@@ -101,7 +101,3 @@ The button publishes `click` to `bangla/capture`. The web app does not listen to
 - Working: phone photo to prediction, MQTT publish, ESP32 receives and shows result, LED feedback
 - In progress: accuracy test of the 10 demo characters on real photos, showing all 10 character names on the OLED (currently only ক and খ have names in firmware)
 - Planned: Bangla glyph bitmaps on the OLED
-
-## License
-
-Add a license of your choice before sharing widely.
